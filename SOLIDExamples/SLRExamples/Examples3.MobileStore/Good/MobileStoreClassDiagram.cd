@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SLRExamples.Examples2.MobileStore.Good.MobileStore">
+    <Position X="1.25" Y="0.5" Width="6.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAQAAAAAAAgAAAAAAAAAAAAAggBAAAAAAAAA=</HashCode>
+      <FileName>Examples3.MobileStore\Good\MobileStore.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Binder" />
+      <Property Name="Reader" />
+      <Property Name="Saver" />
+      <Property Name="Validator" />
+    </ShowAsAssociation>
+  </Class>
+  <Interface Name="SLRExamples.Examples2.MobileStore.Good.Interfaces.IPhoneBinder">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>Examples3.MobileStore\Good\Interfaces\IPhoneBinder.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SLRExamples.Examples2.MobileStore.Good.Interfaces.IPhoneReader">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Examples3.MobileStore\Good\Interfaces\IPhoneReader.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SLRExamples.Examples2.MobileStore.Good.Interfaces.IPhoneSaver">
+    <Position X="1.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples3.MobileStore\Good\Interfaces\IPhoneSaver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SLRExamples.Examples2.MobileStore.Good.Interfaces.IPhoneValidator">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Examples3.MobileStore\Good\Interfaces\IPhoneValidator.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
