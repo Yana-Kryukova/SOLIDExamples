@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SRP", "SRP", "{EB76F89D-76A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SLRExamples", "SLRExamples\SLRExamples.csproj", "{9B5E084F-B461-4C44-BCCF-D5FBB0205D25}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OCP", "OCP", "{CBB4C059-3B55-48E0-8CA4-AAC1D14ABB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OCPExamples", "OCPExamples\OCPExamples.csproj", "{1A2C0B64-01CD-4B23-88DA-4F621AB42911}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{9B5E084F-B461-4C44-BCCF-D5FBB0205D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5E084F-B461-4C44-BCCF-D5FBB0205D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5E084F-B461-4C44-BCCF-D5FBB0205D25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2C0B64-01CD-4B23-88DA-4F621AB42911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2C0B64-01CD-4B23-88DA-4F621AB42911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2C0B64-01CD-4B23-88DA-4F621AB42911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2C0B64-01CD-4B23-88DA-4F621AB42911}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{9B5E084F-B461-4C44-BCCF-D5FBB0205D25} = {EB76F89D-76A0-478D-80B9-11E41C1BD7B3}
+		{1A2C0B64-01CD-4B23-88DA-4F621AB42911} = {CBB4C059-3B55-48E0-8CA4-AAC1D14ABB43}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {94407062-7D0C-497C-A78E-1975A4A6BA26}

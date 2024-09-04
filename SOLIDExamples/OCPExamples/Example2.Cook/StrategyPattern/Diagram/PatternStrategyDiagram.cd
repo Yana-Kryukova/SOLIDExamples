@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OCPExamples.Example1.Cook.StrategyPattern.Context">
+    <Position X="1" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAIAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Example1.Cook\StrategyPattern\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OCPExamples.Example1.Cook.StrategyPattern.Strategies.ConcreteStrategyOne">
+    <Position X="7" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Example1.Cook\StrategyPattern\Strategies\ConcreteStrategyOne.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="OCPExamples.Example1.Cook.StrategyPattern.Strategies.ConcreteStrategyTwo">
+    <Position X="4.75" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Example1.Cook\StrategyPattern\Strategies\ConcreteStrategyTwo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="OCPExamples.Example1.Cook.StrategyPattern.Interfaces.IStrategy">
+    <Position X="4.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Example1.Cook\StrategyPattern\Interfaces\IStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

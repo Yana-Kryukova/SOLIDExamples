@@ -1,5 +1,7 @@
 ﻿using SLRExamples.Examples2.MobileStore.Good;
 using SLRExamples.Exercise.Bad;
+using System.Collections.ObjectModel;
+using System.Security.Cryptography;
 
 namespace SLRExamples
 {
@@ -29,4 +31,5 @@ namespace SLRExamples
             Console.WriteLine($"Employee {employee.Name} earned ${salary}.");
         }
     }
+
 }
