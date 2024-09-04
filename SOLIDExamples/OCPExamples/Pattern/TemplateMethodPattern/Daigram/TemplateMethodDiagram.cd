@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OCPExamples.Pattern.TemplateMethodPattern.ConcreteClass">
+    <Position X="3" Y="2.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pattern\TemplateMethodPattern\ConcreteClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AbstractClass">
+    <Position X="3" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAAAAgAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pattern\TemplateMethodPattern\Base\AbstractClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

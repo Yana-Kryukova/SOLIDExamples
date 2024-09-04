@@ -1,6 +1,6 @@
-﻿using OCPExamples.Example1.Cook.StrategyPattern.Interfaces;
+﻿using OCPExamples.Pattern.StrategyPattern.Interfaces;
 
-namespace OCPExamples.Example1.Cook.StrategyPattern.Strategies
+namespace OCPExamples.Pattern.StrategyPattern.Strategies
 {
     internal class ConcreteStrategyOne : IStrategy
     {

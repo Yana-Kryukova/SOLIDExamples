@@ -1,4 +1,4 @@
-﻿namespace OCPExamples.Example1.Cook.StrategyPattern.Interfaces
+﻿namespace OCPExamples.Pattern.StrategyPattern.Interfaces
 {
     public interface IStrategy
     {
